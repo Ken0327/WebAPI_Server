@@ -1,2 +1,5 @@
-**/packages/*
-!**/packages/repositories.config
+/packages/*/
+!/packages/repositories.config
+!packages/repositories.config
+!.dll
+!.exe
